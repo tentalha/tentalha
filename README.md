@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer | Cloud Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+smart+web+solutions+🚀;Passionate+about+tech+%26+learning+📚;Always+improving+1%25+a+day+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+smart+web+solutions+%F0%9F%9A%80;Passionate+about+tech+%26+learning+%F0%9F%93%9A;Always+improving+1%25+a+day+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
