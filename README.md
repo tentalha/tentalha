@@ -54,7 +54,7 @@
   <a href="mailto:tentalha0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://codewithtalha.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
