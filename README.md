@@ -51,7 +51,7 @@
   <a href="https://linkedin.com/in/tentalha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tentalha0@gmail.com">
+  <a href="mailto:contact@codewithtalha.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://codewithtalha.com" target="_blank">
@@ -63,5 +63,5 @@
 
 <!-- Snake animation (optional fancy touch) -->
 <p align="center">
-  <img src="https://github.com/TalhaAhmadDev/TalhaAhmadDev/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/TalhaAhmadDev/tentalha/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
